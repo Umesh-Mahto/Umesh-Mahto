@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -43,3 +44,14 @@ each teaching me valuable lessons in software architecture and best practices.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umesh-mahto&show_icons=true&locale=en" alt="umesh-mahto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh-mahto&" alt="umesh-mahto" /></p>
+<details>	
+  <summary><b> Github Streaks 🔥</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-Mahto&hide_border=true&theme=merko"></a></p>
+</details>
+
+<p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="Umesh-Mahto" width="200" src="https://profile-counter.glitch.me/Umesh-Mahto/count.svg" /></p>
+
+<p align="center">
+    <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
+</p>
