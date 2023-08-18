@@ -5,13 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-mahto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/umeshma19190366" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/umeshma19190366?logo=twitter&style=for-the-badge" alt="https://twitter.com/umeshma19190366" /></a> </p>
-
-- 🌱 I’m currently learning **Java,Sprint Boot framworks**
+- 🌱 I’m currently learning on **Geekster Platform**
 
 - 📫 How to reach me **umesh846@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YUaholaDQMKB7OFG62Lr6uHXfdlFpeYIssagu8dmprg/edit](https://docs.google.com/document/d/1YUaholaDQMKB7OFG62Lr6uHXfdlFpeYIssagu8dmprg/edit)
+ - A passionate software developer with a knack for crafting efficient and user-centric solutions. 
+My journey in the world of coding has been driven by curiosity and a desire to turn ideas into tangible, functional applications.
+
+- 🚀 I thrive on backend development, where I have honed my skills in building scalable and secure systems. 
+With a solid foundation in technologies like Spring Boot and Java, I enjoy bringing intricate projects to life. 
+I've worked on diverse projects, from E-commerce platforms to User management systems, 
+each teaching me valuable lessons in software architecture and best practices.
+
+- 🌟 I believe that creativity knows no bounds, and I'm always eager to collaborate on innovative projects that challenge me to learn and grow.
+
+- 🛠️ Tech Stack: Java, Spring Boot, MySQL, Hibernate, AWS (EC2), Git
+
+- 📫 Feel free to connect with me! Let's discuss coding, share ideas, or simply chat about our favorite sci-fi reads. 🌌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
