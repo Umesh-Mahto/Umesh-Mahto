@@ -34,6 +34,7 @@ each teaching me valuable lessons in software architecture and best practices.
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/umeshkw2or/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/umeshkw2or/" height="30" width="40" /></a>
  <a href="https://instagram.com/12_mahato_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12_mahato_12" height="30" width="40" /></a>
   <a href="https://twitter.com/https://twitter.com/UmeshMa19190366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/UmeshMa19190366" height="30" width="40" /></a>
+ <a href="mailto:umeshkr846@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/35/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
