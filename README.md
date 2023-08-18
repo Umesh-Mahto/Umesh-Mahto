@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umesh846@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YUaholaDQMKB7OFG62Lr6uHXfdlFpeYIssagu8dmprg/edit](https://docs.google.com/document/d/1YUaholaDQMKB7OFG62Lr6uHXfdlFpeYIssagu8dmprg/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1YUaholaDQMKB7OFG62Lr6uHXfdlFpeYIssagu8dmprg/edit)
  - A passionate software developer with a knack for crafting efficient and user-centric solutions. 
 My journey in the world of coding has been driven by curiosity and a desire to turn ideas into tangible, functional applications.
 
